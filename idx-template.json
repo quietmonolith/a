@@ -1,0 +1,5 @@
+{
+  "name": "IDX Agents: GitHub Action",
+  "description": "A GitHub action that generates a README for a folder with AI, via a pull request, when you tag an issue as AutoReadme",
+  "icon": "https://raw.githubusercontent.com/quietmonolith/a/agent-ghaction/.idx/icon.png"
+}
