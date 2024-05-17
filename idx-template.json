@@ -1,0 +1,5 @@
+{
+  "name": "IDX Agents: VSCode Extension",
+  "description": "An IDE extension that generates a README for a folder with AI",
+  "icon": "https://raw.githubusercontent.com/quietmonolith/a/agent-vsce/.idx/icon.png"
+}
